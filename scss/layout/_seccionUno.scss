@@ -1,0 +1,19 @@
+.container {
+    background-color:none;
+    max-height: 100%;
+    margin-top:10%;
+    margin-bottom: 0%;
+    border-bottom: $colorPrimario;
+  
+    .card {
+      max-height: 500px;
+      background-color: $colorPrimario;
+    
+          #imagenBody{
+              max-height: 266px;
+              max-width: 95%;
+              margin-left: 2.5%;
+        }
+    }  
+  
+}
