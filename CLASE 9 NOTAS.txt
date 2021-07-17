@@ -1,0 +1,1 @@
+Les agregue descripcion y keywords a todos los sitios de la pagina, y trate de añadirle mas titulos (voy a agregarle mas cuando complete la informaciòn)
